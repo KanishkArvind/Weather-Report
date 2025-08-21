@@ -3,7 +3,8 @@ This repository contains the source files for a live, interactive Power BI dashb
 
 Here is a static preview of the dashboard. Please be aware that this image does not reflect the live, interactive nature of the report.
 
-<img width="839" height="471" alt="image" src="https://github.com/user-attachments/assets/74050103-17bc-4957-8764-f2b28206d31c" />
+<img width="2064" height="1158" alt="image" src="https://github.com/user-attachments/assets/96d51268-6b3b-436d-b0db-de4f8d91593d" />
+
 
 
 ## Features
