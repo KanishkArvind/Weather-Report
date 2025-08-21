@@ -3,7 +3,8 @@ This repository contains the source files for a live, interactive Power BI dashb
 
 Here is a static preview of the dashboard. Please be aware that this image does not reflect the live, interactive nature of the report.
 
-<img width="1171" height="656" alt="Weather Report" src="https://github.com/user-attachments/assets/65c2089b-1517-4bbd-899b-50e4a3b7ea22" />
+<img width="839" height="471" alt="image" src="https://github.com/user-attachments/assets/74050103-17bc-4957-8764-f2b28206d31c" />
+
 
 ## Features
 Real-Time Data: The dashboard pulls live weather data from a third-party API to ensure the information is always up-to-date.
